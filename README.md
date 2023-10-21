@@ -2,7 +2,7 @@ ________________________________________________________________________________
 
 Comando para abrir as porta.
 
-wget -O configurar_firewall.sh https://raw.githubusercontent.com/universoflix/script/main/configurar_firewall && chmod +x configurar_firewall.sh && sudo ./configurar_firewall.sh
+wget -O configurar_firewall.sh https://raw.githubusercontent.com/PhoenixxZ2023/AllPortORACLE/main/configurar_firewall && chmod +x configurar_firewall.sh && sudo ./configurar_firewall.sh
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
@@ -12,4 +12,4 @@ sudo apt-get update && sudo apt-get install dos2unix -y && wget -O Install.sh ht
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-sudo apt-get update && sudo apt-get install dos2unix -y && wget -O ubuntu.sh https://raw.githubusercontent.com/universoflix/script/main/ubuntu.sh && dos2unix ubuntu.sh && chmod +x ubuntu.sh && ./ubuntu.sh
+sudo apt-get update && sudo apt-get install dos2unix -y && wget -O ubuntu.sh https://raw.githubusercontent.com/PhoenixxZ2023/AllPortORACLE/main/ubuntu.sh && dos2unix ubuntu.sh && chmod +x ubuntu.sh && ./ubuntu.sh
