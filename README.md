@@ -6,9 +6,7 @@ wget -O configurar_firewall.sh https://raw.githubusercontent.com/PhoenixxZ2023/A
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
-instalar post.
-
-sudo apt-get update && sudo apt-get install dos2unix -y && wget -O Install.sh https://sshturbo.com/Install.sh && dos2unix Install.sh && chmod +x Install.sh && ./Install.sh
+# INSTALAÇÃO DO SCRIPT
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
