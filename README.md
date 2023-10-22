@@ -11,5 +11,5 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________________
 ~~~~
-bash (<curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/AllPortORACLE/main/ubuntu.sh)
+bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/AllPortORACLE/main/ubuntu.sh)
 ~~~~
